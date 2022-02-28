@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @OhFog
+- 👀 I’m interested in Python + JS
+- 🌱 I’m currently learning JS
+- 💞️ I’m looking to collaborate on nothing.
+- 📫 Reach me on Discord: Fog#9999
